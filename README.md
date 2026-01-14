@@ -10,6 +10,7 @@
   - iSV57 mounting
   - iSV57 wiring
   - software configuration in Estlcam
+  - speed test with video
 6. Spoilboard
 7. Printed spindle fan, see [here](https://www.printables.com/model/420575-er11-a-collet-nut-fan)
 8. VFD settings and manual 
