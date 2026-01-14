@@ -1,7 +1,7 @@
 # 6040Z-CNC-upgrades
 
-1. Adjust axis play
-   - x-axis
+1. Adjust axis play (ball screw and linear guide adjustment)
+   - x-axis 
    - y-axis
    - z-axis
 3. Belted y-axis
