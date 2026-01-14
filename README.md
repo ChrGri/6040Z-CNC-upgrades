@@ -1,7 +1,10 @@
 # 6040Z-CNC-upgrades
 
 1. Adjust axis play (ball screw and linear guide adjustment)
-   - x-axis 
+   - x-axis
+     Tighten the nut at the end of the ball screw with a size 8 open mouth wrench until it gets hard to rotate by hand. Untighten a bit so that it can be moved easily by hand, yet has neglicable amount of play.
+     Tighten the grub screws (top and bottom) on the SFU1605 ballscrew with 1.4mm allen wrench slightly to reduce play. It must spin easily.
+     Tighten the liear guides grub screws (top and sided) to tighten the fix the bearing within the bearing block. If tightened too much, carriage cannot move easily anymore.
    - y-axis
    - z-axis
 3. Belted y-axis
