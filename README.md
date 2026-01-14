@@ -6,6 +6,10 @@
    - z-axis
 3. Belted y-axis
 4. iSV57 servo installation and tuning (+Estlcam)
-5. Spoilboard
-6. Printed spindle fan
-7. VFD settings and manual 
+  - NEMA23 removal
+  - iSV57 mounting
+  - iSV57 wiring
+  - software configuration in Estlcam
+6. Spoilboard
+7. Printed spindle fan
+8. VFD settings and manual 
