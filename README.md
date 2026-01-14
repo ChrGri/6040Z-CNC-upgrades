@@ -13,6 +13,8 @@
   - iSV57 mounting
   - iSV57 wiring
   - software configuration in Estlcam
+  - iSV57 loop tuning, see e.g. [this](https://youtu.be/TGw-w5lyD94?si=2f8IllyGhzAjL2RX) and [this](https://www.youtube.com/watch?v=_9Q-VFesnA0)
+    Set velocity feed forward gain to 999, since 1000 did disable it apparently.
   - speed test with video
   - test accuracy in iSV software
   - test accuracy with pencile and paper
