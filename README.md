@@ -18,4 +18,4 @@
   - test accuracy with pencile and paper
 6. Spoilboard
 7. Printed spindle fan, see [here](https://www.printables.com/model/420575-er11-a-collet-nut-fan)
-8. VFD settings and manual 
+8. VFD settings and [manual](https://www.manualslib.com/manual/2793899/Hks-Vfd-Drive-A2-Series.html?controller=view&page=15#manual) 
