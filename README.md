@@ -11,6 +11,7 @@
 4. iSV57 servo installation and tuning (+Estlcam)
   - NEMA23 removal
   - iSV57 mounting
+  - iSV57 cover, see [here](https://makerworld.com/en/models/2269396-stepperonline-isv57-electronics-cover#profileId-2473603)
   - iSV57 wiring
   - software configuration in Estlcam
   - iSV57 loop tuning, see e.g. [this](https://youtu.be/TGw-w5lyD94?si=2f8IllyGhzAjL2RX) and [this](https://www.youtube.com/watch?v=_9Q-VFesnA0)
