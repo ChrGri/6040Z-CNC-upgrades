@@ -30,6 +30,7 @@
    
 11. 3d printed roland style drag knife adapter <br> <img width="300" alt="image" src="https://github.com/user-attachments/assets/961e5f99-9054-4ee0-b454-31657cfe337b" />
 12. 3d printed DIY tool length sensor <br> <img width="300" alt="image" src="https://github.com/user-attachments/assets/cc4dd030-7836-4c73-9bee-a77424c776fd" />
+13. Angle clamp <br> <img width="300" alt="image" src="https://github.com/user-attachments/assets/9bf4d369-c17b-4f7a-a07c-69be6a9e4c07" />
 
    
 
