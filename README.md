@@ -23,10 +23,8 @@
 7. Printed spindle fan, see [here](https://www.printables.com/model/420575-er11-a-collet-nut-fan)
 8. VFD settings and [manual](https://www.manualslib.com/manual/2793899/Hks-Vfd-Drive-A2-Series.html?controller=view&page=15#manual)
 9. Webcam with LED installation for monitoring
-10. 3d printed limit switch adapters <br>
-   [10T85 model](https://www.printables.com/model/182698-10t85-lever-switch-_w-roller/files) <br>
-   [Limit switch (affiliate link)](https://s.click.aliexpress.com/e/_c3AHWxd1) <br>
-   <img width="300" alt="image" src="https://github.com/user-attachments/assets/633e9445-0917-4083-9d2e-baede4bf02c5" /> <br> <img width="300" alt="image" src="https://github.com/user-attachments/assets/0e1e4ed1-65ef-4fc8-8aba-a45a1308cf69" />
+10. 3d printed [limit switch adapters](https://makerworld.com/en/models/2332618-6040z-x-y-limit-switch-10t85-adapters#profileId-2548606) <br>
+   <img width="300" alt="image" src="https://github.com/user-attachments/assets/633e9445-0917-4083-9d2e-baede4bf02c5" /> <br> <img width="300" alt="image" src="https://github.com/user-attachments/assets/0e1e4ed1-65ef-4fc8-8aba-a45a1308cf69" /> <br>
    
 11. 3d printed roland style drag knife adapter <br> <img width="300" alt="image" src="https://github.com/user-attachments/assets/961e5f99-9054-4ee0-b454-31657cfe337b" />
 12. 3d printed DIY tool length sensor <br> <img width="300" alt="image" src="https://github.com/user-attachments/assets/cc4dd030-7836-4c73-9bee-a77424c776fd" />
